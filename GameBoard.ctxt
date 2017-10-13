@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=GameBoard
-comment0.text=\ Name\:\ Nathan\ Martin\ and\ Shashwat\ Patra\r\n\ Professor\:\ Malasri\r\n\ Date\:\ 10/04/2017\r\n\ Project\:\ Othello\r\n
+comment0.text=\ Name\:\ Nathan\ Martin\r\n\ Professor\:\ Malasri\r\n\ Date\:\ 10/04/2017\r\n\ Project\:\ Othello\r\n
 comment1.params=s
 comment1.target=int\ countPieces(java.lang.String)
 comment2.params=r\ c

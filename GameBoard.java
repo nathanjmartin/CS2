@@ -1,4 +1,4 @@
-/* Name: Nathan Martin and Shashwat Patra
+/* Name: Nathan Martin
  * Professor: Malasri
  * Date: 10/04/2017
  * Project: Othello
